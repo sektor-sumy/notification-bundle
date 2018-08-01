@@ -10,6 +10,8 @@
         "symfony/swiftmailer-bundle": "~2.3",
         "tijsverkoyen/css-to-inline-styles": "2.2.*"
     },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "RageNotificationBundle\\": ""
