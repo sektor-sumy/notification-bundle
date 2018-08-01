@@ -6,7 +6,7 @@
     "license": "GNU GPL",
     "require": {
         "php": ">=5.5.0",
-        "symfony/symfony": "3.*",
+        "symfony/symfony": "^3.2.0",
         "symfony/swiftmailer-bundle": "~2.3",
         "tijsverkoyen/css-to-inline-styles": "2.2.*"
     },
