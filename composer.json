@@ -3,7 +3,7 @@
     "keywords": ["swiftmailer", "email", "symfony3"],
     "description": "Simple email notifications bundle for Symfony 3.",
     "homepage": "https://github.com/sektor-sumy/notification-bundle",
-    "license": "GNU GPL",
+    "license": "AGPL-3.0-only",
     "require": {
         "php": ">=5.5.0",
         "symfony/symfony": "^3.2.0",
